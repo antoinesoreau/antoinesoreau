@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 ## ✨ Fun Facts
 
-- 🌱 Currently learning Node and Typescript
+- 🌱 Currently learning Node and React
 - 🌊 Enjoy sports
 
 ---
